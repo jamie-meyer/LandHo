@@ -1,0 +1,40 @@
+#container {
+    display: table;
+    height: 100%;
+    width: 100%;
+    background-color: #dddddd;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#container .content_wrapper {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    text-align: center;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+
+#header{
+
+}
+
+#title{
+
+}
+
+#description{
+
+}
+
+#begin_button_section{
+
+}
+
+#begin_button{
+
+}
